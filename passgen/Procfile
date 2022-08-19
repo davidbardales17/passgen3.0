@@ -1,2 +1,2 @@
-web gunicorn passgen.wsgi
+web: gunicorn passgen.wsgi
 
