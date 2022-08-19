@@ -1,2 +1,2 @@
-web:gunicorn passgen3.0.wsgl
+web:gunicorn passgen3.0.wsgi
 
